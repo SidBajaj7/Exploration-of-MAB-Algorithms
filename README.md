@@ -39,4 +39,8 @@ We’ll be adding:
 - Final summaries of performance
 
   
+<<<<<<< HEAD
 Stay tuned!
+=======
+Stay tuned!
+>>>>>>> 6ea76fa73c406323f75422979272dcef332dd4f8
